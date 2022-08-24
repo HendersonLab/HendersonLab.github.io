@@ -5,8 +5,6 @@
 <br>
 [![Deploy](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml)
 
-![screenshot.png](screenshot.png)
-
 Our website is a [Jekyll](https://jekyllrb.com) site adapted from the
 [al-folio](https://github.com/alshedivat/al-folio) theme to be more suitable for research
 groups and to support [Tailwind CSS](https://tailwindcss.com) for responsive & modern
