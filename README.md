@@ -1,9 +1,9 @@
-# The Vallejos Group Website 
+# The Henderson Lab Website 
 
 ![](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-[![Deploy](https://github.com/VallejosGroup/VallejosGroup.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/VallejosGroup/VallejosGroup.github.io/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/VallejosGroup/HendersonLab.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml)
 
 ![screenshot.png](screenshot.png)
 
@@ -14,7 +14,7 @@ web-design.
 
  <h2>Table of Contents </h2>
 
-- [The Vallejos Group Website](#the-vallejos-group-website)
+- [The Henderson Lab Website](#the-henderson-lab-website) 
   - [Making edits to our site](#making-edits-to-our-site)
     - [New members](#new-members)
     - [Adding publications](#adding-publications)
@@ -28,7 +28,7 @@ Our site is built using [GitHub actions]((https://github.com/features/actions)).
 This means edits to the site can be made without locally building the website.
 When a change is pushed to the `master` branch, a GitHub action runs which
 builds the website on the `gh-pages` branch. This is then deployed to
-https://vallejosgroup.github.io. If you are interested in building the website
+https://HendersonLab.github.io. If you are interested in building the website
 locally so you can see the changes made to the website before they are pushed,
 see the [Local setup](#local-setup) section.
 
@@ -57,7 +57,7 @@ $ magick convert <filename>.jpg -gravity center -crop 3:4 <filename>.jpg
 ```
 
 Now navigate to the _members/ directory, duplicate the
-[`Nathan.md`](_members/Nathan.md) file, rename it to your own name, and edit
+[`AndreasKapourani.md`](_members/AndreasKapourani.md) file, rename it to your own name, and edit
 the file to provide your own links. For any links you do not want,
 comment the line out using #. When specifying the name of the profile image do
 not include the file extension.
@@ -70,14 +70,14 @@ formats. Now, when a publication is added to the site which you are an
 author on, your name will be underlined in the listing.  
 
 Finally commit and push the changes. You can watch the progress of the website
-being built via the [actions tab](https://github.com/VallejosGroup/VallejosGroup.github.io/actions).
+being built via the [actions tab](https://github.com/HendersonLab/HendersonLab.github.io/actions).
 Once the `Deploy` and subsequent `pages-build-deployment` workflows are
-finished, your changes should be on https://vallejosgroup.github.io
+finished, your changes should be on https://HendersonLab.github.io
 
 ### Adding publications
 :books:
 
-The [publications section](https://vallejosgroup.github.io/publications/) of the
+The [publications section](https://HendersonLab.github.io/publications/) of the
 website is generated from the [_bibliography/papers.bib](_bibliography/papers.bib)
 BibTeX file. Adding a record to this file will result in the publication
 being added to the website. I recommend adding an abstract to the record as this
