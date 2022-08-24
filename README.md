@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-[![Deploy](https://github.com/VallejosGroup/HendersonLab.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/HendersonLab/HendersonLab.github.io/actions/workflows/deploy.yml)
 
 ![screenshot.png](screenshot.png)
 
