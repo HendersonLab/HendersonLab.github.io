@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Software
-permalink: /software/
-description: Research software we have produced
+title: Projects
+permalink: /projects/
+#description: Research Projects 
 nav: true
-display_categories: [Bioconductor, GitHub]
+display_categories: [Research]
 horizontal: true
 importance: 4
 ---

@@ -19,7 +19,7 @@
             {%- if project.github -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+                <a href="{{ project.github }}"><i class="fab fa-github exp fa-2x"></i></a>
               </div>
               {%- if project.github_stars -%}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
@@ -27,6 +27,14 @@
                 <span id="{{ project.github_stars }}-stars"></span>
               </span>
               {%- endif %}
+            </div>
+            {%- endif %}
+            {%- if project.website -%}
+            <div class="website-icon">
+              <div class="icon" data-toggle="tooltip" title="Project website">
+                <a href="{{ project.website }}"><svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 15 15">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" /> </svg></a>
+              </div>
             </div>
             {%- endif %}
           </div>

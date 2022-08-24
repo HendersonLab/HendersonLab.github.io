@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Understanding heterogeneity in complex biomedical data
+subtitle: Subtitle with research summary
 group_pic: assets/img/group-members/prof_pic
 
 news: true  # includes a list of news items
@@ -12,8 +12,10 @@ importance: 1
 ---
 
 
+Organ fibrosis (scarring) is a major cause of morbidity and mortality worldwide, and as yet there are no effective anti-fibrotic treatments. My lab is interested in the cellular and molecular mechanisms that drive organ fibrosis, and also the molecular pathways which are responsible for efficient wound healing and healthy tissue regeneration following injury. By understanding more about how organs scar, heal and regenerate we hope to develop new treatments for patients with organ fibrosis. 
 
-While biomedical data sometimes classifies as "big data" (where the number of samples and/or variables is large), complexity is its most prominent feature. This arises from a combination of different sources of heterogeneity: heterogeneity across individuals in a population (e.g. response to treatment), heterogeneity in terms of the type of data we collect (e.g. health records & genomics) and heterogeneity that is introduced by the data collection process (e.g. measurement error). 
+<br>
+Single-cell genomics approaches are transforming our understanding of disease pathogenesis, allowing interrogation of homeostatic and pathogenic cell populations at unprecedented resolution, and adding an illuminating dimension to transcriptomic information relative to traditional methods that profile bulk cell populations. The single cell genomics field has developed rapidly over the last few years, chiefly because these approaches allow powerful, unbiased exploration of cell states and types at single-cell resolution, resulting in unexpected novel insights into tissue biology and disease mechanisms.  
 
-
-We focus on the development of novel statistical methodology to address and study these sources of heterogeneity. This is a highly multidisciplinary task: from the understanding of complex biomedical problems and technologies, to the development of new methodology and the implementation of open-source analysis tools. Our current research focuses on two areas of application. Firstly, single-cell RNA-sequencing, a cutting-edge experimental technique that allows genome-wide quantification of gene expression on a cell-by-cell basis. Secondly, electronic health records research, to develop predictive models based on observational data that is routinely collected by health providers (e.g. NHS). Developing computational tools that can make full advantage of the rich information provided by these data sources is ought to improve our understanding of health and disease, playing an important role in precision medicine initiatives.
+<br>
+The convergence of these multi-modal single-cell technologies represent a remarkable opportunity to decode the molecular mechanisms regulating human tissue fibrosis and regeneration at single cell resolution, which we hope will inform and accelerate the development of effective new therapies for patients with fibrotic diseases.

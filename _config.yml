@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 title: "blank"
-group_name: "Vallejos Group"
-email: catalina.vallejos@igmm.ed.ac.uk
+group_name: "Henderson Lab"
+email: Neil.Henderson@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Vallejos Research Group Website
+  The Neil Henderson Research Lab Website
 footer_text: 
-keywords: Bayesian Single-cell RNA-seq EHR # add your own keywords or leave empty
+keywords: Single-cell RNA-seq liver fibrosis regeneration # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: "favicon.png"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: #"favicon.png"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://vallejosgroup.github.io # the base hostname & protocol for your site
+url: https://hendersonlab.github.io # the base hostname & protocol for your site 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-repository: "VallejosGroup/VallejosGroup.github.io"
+repository: "HendersonLab/HendersonLab.github.io"
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -23,7 +23,7 @@ repository: "VallejosGroup/VallejosGroup.github.io"
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: false 
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -49,18 +49,18 @@ og_image:  # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: VallejosGroup # your GitHub user name
+github_username: HendersonLab # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: CataVallejosM # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: https://scholar.google.co.uk/citations?user=586JfA4AAAAJ&hl=en # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.ed.ac.uk/inflammation-research/people/principal-investigators/professor-neil-henderson # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -201,8 +201,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: ["Vallejos", "Kapourani", "Monterrubio-Gómez", "Gomez", "Cheng", "Liley", "Maniatis", "Constantine-Cooke", "Nguyen", "Bernabeu", "Papanastasiou", "Yang"]
-  first_name: ["Catalina A", "Catalina", "C. A.", "Catalina A.", "Chantriolnt-Andreas", "Karla", "Karla Monterrubio", "Yipeng", "James", "Christos", "Nathan", "Nathan Samuel", "Linda", "Elena", "Andrew", "Emma J"] 
+  last_name: ["Henderson", "Kapourani", "Matchett", "Portman", "Wilson-Kanamori"]
+  first_name: ["Neil C", "Neil", "NC", "Chantriolnt-Andreas", "CA.", "Kylie", "Kylie P", "John R", "JR", "Jordan R"] 
 
   style: apa
   locale: en

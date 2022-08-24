@@ -2,7 +2,7 @@
 layout: page
 title: Alumni
 permalink: /alumni/
-description: Previous members of Vallejos group
+description: Previous members of the Henderson lab
 nav: false
 horizontal: false
 ---

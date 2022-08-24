@@ -1,17 +1,13 @@
-"Lees":
-  - firstname: ["Charlie W."]
-    url: https://charlielees.com
-
 "Marioni":
-  - firstname: ["Riccardo E", "Ricardo E.", "Riccardo"]
-    url: https://marioni-group.owlstown.net
-  - firstname: ["John C.", "John C"]
-    url: https://www.ebi.ac.uk/research-beta/marioni/
+  - firstname: ["JC", "John C", "John C.", "John"]
+    url: https://www.ebi.ac.uk/research/marioni/
 
-"Sanguinetti":
-  - firstname: Guido
-    url: https://datascience.sissa.it/person/11/guido-sanguinetti
+"Teichmann":
+  - firstname: ["Sarah A", "Sarah", "Sarah C.", "SA"]
+    url: https://www.sanger.ac.uk/group/teichmann-group/
 
-"Steel":
-  - firstname: ["Mark F.J.", "Mark F. J."]
-    url: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/steel_homepage
+#"Marioni":
+#  - firstname: ["Riccardo E", "Ricardo E.", "Riccardo"]
+#    url: https://marioni-group.owlstown.net
+#  - firstname: ["John C.", "John C"]
+#    url: https://www.ebi.ac.uk/research-beta/marioni/

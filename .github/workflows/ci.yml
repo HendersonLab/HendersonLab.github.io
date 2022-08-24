@@ -1,5 +1,5 @@
 name: CI
-# Builds website but does not deploy it
+# Builds website but does not deploy it. 
 on:
   pull_request:
       branches:
