@@ -2,9 +2,9 @@
 layout: page
 title: temp
 name: Chantriolnt Andreas Kapourani
-role: Cross-Disciplinary Postdoctoral Fellow
+role: MRC Cross Disciplinary Postdoctoral Fellow
 img: assets/img/group-members/AndreasKapourani
-importance: 1
+importance: 3
 website: "https://andreaskapou.github.io/"
 scholar: "https://scholar.google.co.uk/citations?user=RXTwUEsAAAAJ&hl=en"
 github: "https://github.com/andreaskapou"

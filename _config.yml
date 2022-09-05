@@ -202,7 +202,7 @@ jekyll-archives:
 scholar:
 
   last_name: ["Henderson", "Kapourani", "Matchett", "Portman", "Wilson-Kanamori"]
-  first_name: ["Neil C", "Neil", "NC", "Chantriolnt-Andreas", "CA.", "Kylie", "Kylie P", "John R", "JR", "Jordan R"] 
+  first_name: ["Neil C", "Neil", "NC", "N. C.", "N. C. ", "Chantriolnt-Andreas", "CA.", "Kylie", "Kylie P", "John R", "JR", "Jordan R"] 
 
   style: apa
   locale: en
