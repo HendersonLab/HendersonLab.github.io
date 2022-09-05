@@ -18,7 +18,10 @@ importance: 2
             {%- endfor %}
 </div>
 
+<!-- Display categorized projects
 <p class = "text-3xl font-thin text-center">
 <a  title="Alumni" href = "{{site.url}}/alumni/"> See  our alumni </a>
 </p>
+
+-->
 
