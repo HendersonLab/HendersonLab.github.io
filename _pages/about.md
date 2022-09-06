@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Subtitle with research summary
+subtitle: Harnessing single cell approaches to decode tissue fibrosis and regeneration
 group_pic: assets/img/group-members/prof_pic
 
 news: true  # includes a list of news items
