@@ -7,7 +7,7 @@ nav: false
 horizontal: true
 ---
 
-<img src = "/assets/img/group-members/jasminparis2-480.webp" width = "200">
+<img src = "/assets/img/group-members/jasminparis-480.webp" width = "200">
 
 <br>
 <h1 class="text-2xl grow font-extralight"> Biographical Profile </h1>
