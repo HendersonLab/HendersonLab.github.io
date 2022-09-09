@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hendersonlab.github.io/sitemap.xml
+Sitemap: https://www.henderson-lab.com/sitemap.xml
