@@ -24,7 +24,10 @@
           <a href="{{ project.shinyapp }}" class="btn btn-sm z-depth-0" role="button">Shiny App</a>
         {%- endif %}
         {%- if project.link %}
-          <a href="{{ project.link }}" class="btn btn-sm z-depth-0" role="button">Link</a>
+          <a href="{{ project.link }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+        {%- endif %}
+        {%- if project.dataset %}
+          <a href="{{ project.dataset }}" class="btn btn-sm z-depth-0" role="button">Data</a>
         {%- endif %}
       </div>
       {%- if project.github -%}

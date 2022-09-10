@@ -1,10 +1,10 @@
-"Marioni":
-  - firstname: ["JC", "John C", "John C.", "John"]
-    url: https://www.ebi.ac.uk/research/marioni/
+#"Marioni":
+#  - firstname: ["JC", "John C", "John C.", "John"]
+#    url: https://www.ebi.ac.uk/research/marioni/
 
-"Teichmann":
-  - firstname: ["Sarah A", "Sarah", "Sarah C.", "SA"]
-    url: https://www.sanger.ac.uk/group/teichmann-group/
+#"Teichmann":
+#  - firstname: ["Sarah A", "Sarah", "Sarah C.", "SA"]
+#    url: https://www.sanger.ac.uk/group/teichmann-group/
 
 #"Marioni":
 #  - firstname: ["Riccardo E", "Ricardo E.", "Riccardo"]

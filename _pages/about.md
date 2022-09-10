@@ -14,7 +14,7 @@ importance: 1
 
 <h1 class="text-2xl grow font-extralight"> What we do </h1>
 
-My lab is interested in the cellular and molecular mechanisms that drive organ fibrosis, and also the molecular pathways which are responsible for efficient wound healing and healthy tissue regeneration following injury.
+The Henderson lab is interested in the cellular and molecular mechanisms that drive organ fibrosis, and also the molecular pathways which are responsible for efficient wound healing and healthy tissue regeneration following injury.
 
 <br>
 

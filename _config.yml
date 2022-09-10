@@ -53,7 +53,7 @@ github_username: HendersonLab # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: https://scholar.google.co.uk/citations?user=586JfA4AAAAJ&hl=en # your Google Scholar ID
+scholar_userid: 586JfA4AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -200,9 +200,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: ["Henderson", "Kapourani", "Matchett", "Portman", "Wilson-Kanamori"]
-  first_name: ["Neil C", "Neil", "NC", "N. C.", "N. C. ", "Chantriolnt-Andreas", "CA.", "Kylie", "Kylie P", "John R", "JR", "Jordan R"] 
+  #last_name: ["Henderson", "Kapourani", "Matchett", "Portman", "Wilson-Kanamori"]
+  #first_name: ["Neil C", "Neil", "NC", "N. C.", "N. C. ", "Chantriolnt-Andreas", "CA.", "Kylie", "Kylie P", "John R", "JR", "Jordan R"] 
 
   style: apa
   locale: en

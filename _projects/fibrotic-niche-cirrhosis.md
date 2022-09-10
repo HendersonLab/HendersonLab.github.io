@@ -5,6 +5,7 @@ description: To obtain a better understanding of the cellular and molecular mech
 img: assets/img/projects/fibrotic-niche-cirrhosis
 shinyapp: "https://shiny.igmm.ed.ac.uk/livercellatlas/"
 link: "https://www.nature.com/articles/s41586-019-1631-3"
+dataset: "https://datashare.ed.ac.uk/handle/10283/3433"
 importance: 1
 category: Research
 ---
