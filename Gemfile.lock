@@ -157,7 +157,7 @@ DEPENDENCIES
   jekyll-target-blank
   jekyll-twitter-plugin
   jemoji
-  mini_racer (>= 0.2.1)
+  mini_racer
   unicode_utils
   webrick
 
