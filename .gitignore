@@ -9,3 +9,4 @@ _site
 package-lock.json
 vendor
 node_modules
+Gemfile.lock
