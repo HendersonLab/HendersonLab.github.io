@@ -136,9 +136,6 @@ GEM
     unicode_utils (1.4.0)
     webrick (1.7.0)
 
-PLATFORMS
-  x86_64-darwin-22
-
 DEPENDENCIES
   feedjira
   htmlbeautifier
