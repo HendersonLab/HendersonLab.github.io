@@ -97,7 +97,10 @@ the pdf file, and a link will be generated.
 
 Building our website locally requires `ruby`, and `node`. If on macOS or Linux,
 there is a high chance `ruby` is already installed and may also have node
-installed. To check if you have them installed, run 
+installed. On Mac, it is advised to install the newest version with brew,
+e.g. following this tutorial: https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/
+
+To check if you have them installed, run 
 
 ``` bash 
 $ ruby -v

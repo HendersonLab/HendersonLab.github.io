@@ -33,10 +33,10 @@ layout: default
               <img src="{{site.url}}/assets/img/henderson-lab-pic-800.webp" alt="Avatar" class="object-cover  h-30 w-100 rounded-xl" />
             </picture>
 
-            <div class="absolute w-full py-2.5 bottom-0 inset-x-0 border-slate-400 bg-slate-400 bg-opacity-40 rounded-b-xl text-center leading-4 backdrop-filter backdrop-blur-sm"><h1 class="post-title">
-              {% if site.title == "blank" -%}<span class="font-extralight text-2xl">{{ site.group_name}}</span>{%- else -%}{{ site.title }}{%- endif %}
+            <div class="absolute w-full py-2.5 bottom-0 inset-x-0 border-slate-400 bg-slate-400 bg-opacity-40 rounded-b-xl text-center leading-4 backdrop-filter backdrop-blur-sm"><h1 class="post-title text-amber-50">
+              {% if site.title == "blank" -%}<span class="text-amber-50 grow font-sans text-3xl">{{ site.group_name}}</span>{%- else -%}{{ site.title }}{%- endif %}
              </h1>
-             <p class="desc text-lg">{{ page.subtitle }}</p>
+             <p class="text-amber-50 desc text-lg">{{ page.subtitle }}</p>
             </div>
           </div>
         
