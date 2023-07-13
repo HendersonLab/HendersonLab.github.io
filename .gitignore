@@ -10,3 +10,5 @@ package-lock.json
 vendor
 node_modules
 Gemfile.lock
+.Rproj.user
+HendersonWebsite.Rproj
