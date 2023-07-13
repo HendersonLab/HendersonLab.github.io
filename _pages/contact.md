@@ -16,11 +16,11 @@ ADDRESS
 
 Centre for Inflammation Research
 
+Institute for Regeneration and Repair
+
 University of Edinburgh 
 
-Queen's Medical Research Institute
-
-EH16 4TJ
+EH16 4UU
 
 Edinburgh 
 
