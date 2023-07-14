@@ -3,7 +3,7 @@ layout: page
 title: temp
 name: Hannah Barron
 role: Research Assistant
-img: assets/img/group-members/HannahBaron
+img: assets/img/group-members/HannahBarron
 importance: 1
 years: ""
 after: ""
