@@ -1,9 +1,9 @@
 ---
 layout: page
 name: "Mariana Beltran"
-role: "Research Assistant"
+role: "Scientific Project Manager"
 img: assets/img/group-members/image
-importance: 1
+importance: 2
 ---
 
 
