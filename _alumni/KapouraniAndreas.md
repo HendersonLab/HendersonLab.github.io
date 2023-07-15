@@ -3,7 +3,7 @@ layout: page
 title: temp
 name: Chantriolnt Andreas Kapourani
 role: MRC Cross Disciplinary Postdoctoral Fellow
-img: assets/img/group-members/AndreasKapourani
+img: assets/img/alumni/AndreasKapourani
 importance: 2
 years: ""
 after: ""
