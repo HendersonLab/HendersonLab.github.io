@@ -1,10 +1,10 @@
 ---
 layout: page
 title: temp
-name: "John Wilson-Kanamori"
+name: "Ian Fox"
 role: "Postdoctoral Research Fellow"
 img: assets/img/group-members/image
-importance: 7
+importance: 2
 ---
 
 

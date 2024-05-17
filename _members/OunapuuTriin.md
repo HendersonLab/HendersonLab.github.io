@@ -4,7 +4,7 @@ title: temp
 name: Triin Ounapuu
 role: Research Assistant
 img: assets/img/group-members/TriinOunapuu
-importance: 8
+importance: 10
 years: ""
 after: ""
 twitter: "https://twitter.com/triin6unap"
