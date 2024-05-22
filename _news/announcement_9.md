@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-The Hendo Lab welcomes Zara Aiken!
+The Hendo Lab welcomes Dr Zara Aiken as a new Clinical Research Fellow!

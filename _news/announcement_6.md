@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-The Hendo lab welcomes <b>Triin Ounapuu</b>, <b>Hannah Barron</b> and <b>Pedro Arede Rei</b> as new Research Assistants in the group!
+The Hendo lab welcomes Triin Ounapuu, Hannah Barron and Pedro Arede Rei as new Research Assistants in the group!

@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Congratulations to Dr Sebastian Wallace on successful defence of their PhD viva!
+Congratulations to Dr Sebastian Wallace on successful defence of his PhD viva!

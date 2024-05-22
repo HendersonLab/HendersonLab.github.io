@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Congratulations to Dr Prasad Palani Velu on successful defense of their PhD viva!
+Congratulations to Dr Prasad Palani Velu on successful defence of his PhD viva!
